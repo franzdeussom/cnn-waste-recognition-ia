@@ -1,6 +1,6 @@
 # Waste Classification with TensorFlow & MobileNetV2
 
-Ce projet est un modèle de classification d’images de déchets (recyclable, non-recyclable, organique, hasardeux) utilisant TensorFlow et MobileNetV2(Transfert Learning) pour une meilleur performence. Il permet d’entraîner un modèle, de le sauvegarder, de le fine-tuner avec de nouvelles données, et de prédire la classe d’images inédites.
+This project is a waste image classification model (recyclable, non-recyclable, organic, hazardous) using TensorFlow and MobileNetV2, and a Transfer Learning technique for improved model performance. It allows users to train a model, save it, fine-tune it with new data, and predict the class of a new image.
 
 ---
 
